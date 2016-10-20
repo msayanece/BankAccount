@@ -59,7 +59,7 @@ class AccountManager extends Employee {
 				System.out.println("Your age is: " + b1.getAccHolderAge());
 				break;
 			} catch (MyException re) {
-				System.out.println(re.getMessage());`
+				System.out.println(re.getMessage());
 			}
 		}
 
